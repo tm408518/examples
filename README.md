@@ -1,5 +1,6 @@
 # CS3560 - Example Project
-
+"ISSUE 6: MODIFY README.MD FOR PR HAS BEEN FIXED"
+  -This will allow me to create a pull request
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
 This is a simple project that contain some of the tools used in the class. For example,
